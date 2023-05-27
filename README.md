@@ -8,4 +8,4 @@ Daha sonrasında "-set" komutu kullanılan metin kanalına "start" yazdıktan so
 
 Son yazılan kelimenin son harfi ile yeni ve farklı bir kelime girmelisiniz.
 
-Kelimelerin anlamlı olup olmadığını resmi TDK apisinden sorgulanmkatadır.
+Kelimelerin anlamlı olup olmadığını resmi TDK apisinden sorgulanmaktadır.
